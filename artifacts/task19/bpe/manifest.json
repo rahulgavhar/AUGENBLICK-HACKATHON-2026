@@ -1,0 +1,10 @@
+{
+  "schema_version": "1",
+  "model_type": "bpe",
+  "vocab_size": 187,
+  "created_at": "2026-03-13T20:13:36.357852Z",
+  "description": "",
+  "languages": [],
+  "checksum": "f744880fbea37fd4a64cebc8b077b3560a4460be5c06b2a3e5883e5859a45aac",
+  "extra": {}
+}
